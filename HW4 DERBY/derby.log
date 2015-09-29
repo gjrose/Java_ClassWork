@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Mar 05 04:45:59 CST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-014b-e98a-c0eb-00000e9f1498 
+on database directory C:\Users\GENTRY\workspace\HW4 DERBY\BigJavaDB with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/GENTRY/Desktop/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b18
+user.dir=C:\Users\GENTRY\workspace\HW4 DERBY
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
